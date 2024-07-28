@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @whoknows1428
+- 🌱 I’m currently learning web dev
